@@ -43,7 +43,28 @@ int main(void)
     /*
       * You can start your application code here
       */
-    while (1) {}
+	    while (1) {
+
+	    	HAL_GPIO_TogglePin(HAL_GPIOB, HAL_GPIO_PIN_14);
+	    	HAL_GPIO_TogglePin(HAL_GPIOB, HAL_GPIO_PIN_15);
+	    	HAL_GPIO_TogglePin(HAL_GPIOA, HAL_GPIO_PIN_8);
+	    	HAL_Delay(500);
+	    	HAL_GPIO_TogglePin(HAL_GPIOB, HAL_GPIO_PIN_14);
+	    	HAL_GPIO_TogglePin(HAL_GPIOB, HAL_GPIO_PIN_15);
+	    	HAL_GPIO_TogglePin(HAL_GPIOA, HAL_GPIO_PIN_8);
+	    	HAL_Delay(500);
+
+	        HAL_GPIO_WritePin(LED1_PORT, LED1_PIN, HAL_GPIO_PIN_SET);
+	        HAL_GPIO_WritePin(LED2_PORT, LED2_PIN, HAL_GPIO_PIN_SET);
+	        HAL_GPIO_WritePin(LED3_PORT, LED3_PIN, HAL_GPIO_PIN_SET);
+	        HAL_Delay(500);
+
+	        HAL_GPIO_WritePin(LED1_PORT, LED1_PIN, HAL_GPIO_PIN_RESET);
+	        HAL_GPIO_WritePin(LED2_PORT, LED2_PIN, HAL_GPIO_PIN_RESET);
+	        HAL_GPIO_WritePin(LED3_PORT, LED3_PIN, HAL_GPIO_PIN_RESET);
+	        HAL_Delay(500);
+
+	    }
   }
 } /* end main */
 

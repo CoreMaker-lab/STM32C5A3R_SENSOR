@@ -1,0 +1,4 @@
+E:/STM32/STM32C552_Project4/STM32C5A3R_Project1_cmake/user_modifiable/Device/STM32C5A3RGT6/startup_stm32c5a3xx.c:290:25:Reset_Handler	40	static,ignoring_inline_asm
+E:/STM32/STM32C552_Project4/STM32C5A3R_Project1_cmake/user_modifiable/Device/STM32C5A3RGT6/startup_stm32c5a3xx.c:311:13:HardFault_Handler	4	static
+E:/STM32/STM32C552_Project4/STM32C5A3R_Project1_cmake/user_modifiable/Device/STM32C5A3RGT6/startup_stm32c5a3xx.c:322:6:Default_IRQHandler	8	static
+E:/STM32/STM32C552_Project4/STM32C5A3R_Project1_cmake/user_modifiable/Device/STM32C5A3RGT6/startup_stm32c5a3xx.c:333:13:Default_IRQHandler_Hook	4	static
