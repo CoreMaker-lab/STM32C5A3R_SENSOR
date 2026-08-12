@@ -1,0 +1,11 @@
+E:/STM32/STM32C5A3R_Project2/STM32C5A3R_Project2_cmake/arch/cmsis/CMSIS/Core/Include/core_cm33.h:2692:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+E:/STM32/STM32C5A3R_Project2/STM32C5A3R_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:670:22:LL_FLASH_SetUnlockKey	16	static
+E:/STM32/STM32C5A3R_Project2/STM32C5A3R_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:685:22:LL_FLASH_OB_SetUnlockKey	16	static
+E:/STM32/STM32C5A3R_Project2/STM32C5A3R_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:780:22:LL_FLASH_OB_Lock	16	static
+E:/STM32/STM32C5A3R_Project2/STM32C5A3R_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:792:26:LL_FLASH_OB_IsLocked	16	static
+E:/STM32/STM32C5A3R_Project2/STM32C5A3R_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:1109:22:LL_FLASH_Lock	16	static
+E:/STM32/STM32C5A3R_Project2/STM32C5A3R_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:1121:26:LL_FLASH_IsLocked	16	static
+E:/STM32/STM32C5A3R_Project2/STM32C5A3R_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:1924:22:LL_FLASH_OB_SetBoot0SourceSelection	16	static
+E:/STM32/STM32C5A3R_Project2/STM32C5A3R_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_flash.h:1938:26:LL_FLASH_OB_GetBoot0SourceSelection	16	static
+E:/STM32/STM32C5A3R_Project2/STM32C5A3R_Project2_cmake/main.c:33:13:Configure_BOOT_SEL	24	static
+E:/STM32/STM32C5A3R_Project2/STM32C5A3R_Project2_cmake/main.c:150:5:main	8	static

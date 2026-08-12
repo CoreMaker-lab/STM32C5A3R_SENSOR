@@ -1,0 +1,20 @@
+# ninja log v5
+5	449	8082483510335017	CMakeFiles/STM32C5A3R_Project2.dir/main.c.obj	1e8055150296e1ce
+86	468	8082483510560178	CMakeFiles/STM32C5A3R_Project2.dir/user_modifiable/Device/STM32C5A3RGT6/system_stm32c5xx.c.obj	ab46e1f1bb34554
+163	485	8082483510759639	CMakeFiles/STM32C5A3R_Project2.dir/utilities/syscalls/sysmem.c.obj	6e55603ce7ff09f2
+14	485	8082483510647356	CMakeFiles/STM32C5A3R_Project2.dir/generated/hal/mx_cortex_mpu.c.obj	152fe57588df585b
+99	499	8082483510900026	CMakeFiles/STM32C5A3R_Project2.dir/user_modifiable/Device/STM32C5A3RGT6/startup_stm32c5a3xx.c.obj	432a904b4e9d7028
+21	510	8082483511013396	CMakeFiles/STM32C5A3R_Project2.dir/generated/hal/mx_cortex_nvic.c.obj	b9c927190a467b8a
+29	511	8082483511016885	CMakeFiles/STM32C5A3R_Project2.dir/generated/hal/mx_gpio_default.c.obj	102dadd4fc5fcb3d
+145	530	8082483511198205	CMakeFiles/STM32C5A3R_Project2.dir/utilities/syscalls/syscalls.c.obj	ce895ff10fbf4693
+59	538	8082483511277935	CMakeFiles/STM32C5A3R_Project2.dir/generated/hal/mx_rcc.c.obj	b38d2a22501db429
+43	542	8082483511307836	CMakeFiles/STM32C5A3R_Project2.dir/generated/hal/mx_icache.c.obj	faf3571ec028cdfc
+76	542	8082483511323075	CMakeFiles/STM32C5A3R_Project2.dir/generated/hal/mx_system.c.obj	d5ca6efa7d973707
+120	610	8082483512029679	CMakeFiles/STM32C5A3R_Project2.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_gpio.c.obj	ef05b1b7ae3f992e
+126	615	8082483512099580	CMakeFiles/STM32C5A3R_Project2.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_icache.c.obj	30472d2f14008e11
+104	616	8082483512119509	CMakeFiles/STM32C5A3R_Project2.dir/stm32c5xx_drivers/hal/stm32c5xx_hal.c.obj	ae449ae7c70448bb
+131	632	8082483512274625	CMakeFiles/STM32C5A3R_Project2.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_pwr.c.obj	2c12551a283edece
+110	637	8082483512318973	CMakeFiles/STM32C5A3R_Project2.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_cortex.c.obj	2145163223a29415
+114	638	8082483512318973	CMakeFiles/STM32C5A3R_Project2.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_flash_itf.c.obj	ddd6b96b422286e4
+136	709	8082483513021047	CMakeFiles/STM32C5A3R_Project2.dir/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.c.obj	1b1daa27a3fc8548
+719	881	8082483514710546	STM32C5A3R_Project2.elf	66cb3b9f5994e159
