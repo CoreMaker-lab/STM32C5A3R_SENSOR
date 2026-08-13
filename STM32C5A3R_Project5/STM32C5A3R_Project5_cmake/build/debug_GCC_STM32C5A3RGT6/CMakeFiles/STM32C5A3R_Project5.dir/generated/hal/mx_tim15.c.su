@@ -1,0 +1,13 @@
+E:/STM32C5/STM32C5A3R_Project5/STM32C5A3R_Project5_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:878:22:LL_AHB2_GRP1_EnableClock	48	static,ignoring_inline_asm
+E:/STM32C5/STM32C5A3R_Project5/STM32C5A3R_Project5_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:2330:22:LL_APB2_GRP1_EnableClock	48	static,ignoring_inline_asm
+E:/STM32C5/STM32C5A3R_Project5/STM32C5A3R_Project5_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:2416:22:LL_APB2_GRP1_DisableClock	40	static,ignoring_inline_asm
+E:/STM32C5/STM32C5A3R_Project5/STM32C5A3R_Project5_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:2451:22:LL_APB2_GRP1_ForceReset	16	static
+E:/STM32C5/STM32C5A3R_Project5/STM32C5A3R_Project5_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:2486:22:LL_APB2_GRP1_ReleaseReset	16	static
+E:/STM32C5/STM32C5A3R_Project5/STM32C5A3R_Project5_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.h:1355:22:HAL_RCC_GPIOA_EnableClock	8	static
+E:/STM32C5/STM32C5A3R_Project5/STM32C5A3R_Project5_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.h:2146:22:HAL_RCC_TIM15_EnableClock	8	static
+E:/STM32C5/STM32C5A3R_Project5/STM32C5A3R_Project5_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.h:2216:22:HAL_RCC_TIM15_DisableClock	8	static
+E:/STM32C5/STM32C5A3R_Project5/STM32C5A3R_Project5_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.h:3626:22:HAL_RCC_TIM15_Reset	8	static
+E:/STM32C5/STM32C5A3R_Project5/STM32C5A3R_Project5_cmake/generated/hal/mx_tim15.c:33:19:mx_tim15_init	64	static
+E:/STM32C5/STM32C5A3R_Project5/STM32C5A3R_Project5_cmake/generated/hal/mx_tim15.c:118:6:mx_tim15_deinit	8	static
+E:/STM32C5/STM32C5A3R_Project5/STM32C5A3R_Project5_cmake/generated/hal/mx_tim15.c:133:19:mx_tim15_gethandle	4	static
+E:/STM32C5/STM32C5A3R_Project5/STM32C5A3R_Project5_cmake/generated/hal/mx_tim15.c:141:6:TIM15_IRQHandler	8	static

@@ -1,0 +1,6 @@
+E:/STM32C5/STM32C5A3R_Project4/STM32C5A3R_Project4_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_tim.h:3626:1:hal_tim_oc_channel_to_compare_unit	32	static
+E:/STM32C5/STM32C5A3R_Project4/STM32C5A3R_Project4_cmake/main.c:50:21:TIM1_SetPSC_ARR	24	static
+E:/STM32C5/STM32C5A3R_Project4/STM32C5A3R_Project4_cmake/main.c:90:21:TIM1_SetFrequency	24	static
+E:/STM32C5/STM32C5A3R_Project4/STM32C5A3R_Project4_cmake/main.c:125:21:TIM1_SetChannelDuty	32	static
+E:/STM32C5/STM32C5A3R_Project4/STM32C5A3R_Project4_cmake/main.c:171:21:TIM1_PWM_Start_CH1_CH3	16	static
+E:/STM32C5/STM32C5A3R_Project4/STM32C5A3R_Project4_cmake/main.c:210:5:main	8	static
