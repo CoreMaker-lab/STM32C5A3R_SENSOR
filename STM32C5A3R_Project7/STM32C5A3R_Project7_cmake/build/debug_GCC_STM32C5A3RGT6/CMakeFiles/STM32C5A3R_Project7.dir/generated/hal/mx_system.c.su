@@ -1,0 +1,4 @@
+D:/STM32C5/STM32C5A3R_Project7/STM32C5A3R_Project7_cmake/generated/hal/mx_system.c:32:17:mx_system_init	8	static
+D:/STM32C5/STM32C5A3R_Project7/STM32C5A3R_Project7_cmake/generated/hal/mx_system.c:140:6:SysTick_Handler	8	static
+D:/STM32C5/STM32C5A3R_Project7/STM32C5A3R_Project7_cmake/generated/hal/mx_system.c:150:24:pre_system_init_hook	4	static
+D:/STM32C5/STM32C5A3R_Project7/STM32C5A3R_Project7_cmake/generated/hal/mx_system.c:162:24:post_system_init_hook	4	static
